@@ -1,4 +1,4 @@
-(* function declaration *)
+(* function declaration in ocaml *)
 let double_num x = x * 2 
 
 let double_sum = [6; 7; 8]
