@@ -1,0 +1,6 @@
+(** @canonical Dune__exe.Helloworld *)
+module Helloworld = Dune__exe__Helloworld
+
+
+(** @canonical Dune__exe.Main *)
+module Main = Dune__exe__Main
